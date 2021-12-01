@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS paxamour_db;
+
+CREATE DATABASE paxamour_db;
